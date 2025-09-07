@@ -1,9 +1,8 @@
 # custom-font-for-vencord
 An editable file that you can use to customize Discord font as a theme in Vencord
 
-
-# Vencord required for this to work
-Open Discord settings > go to Vencord section > find Themes > make sure you are in the Local Themes tab > Click "Open Themes Folder" > Place the file in your themes folder. 
+# Instructions
+Open Discord settings > go to Vencord section > find Themes > make sure you are in the Local Themes tab > Click "Open Themes Folder" > Place the CustomDiscordTheme.theme.css file in your themes folder. 
 You can edit the file as you wish. As long as the font you want is on https://fonts.google.com
 
 Here's an example with the following font: https://fonts.google.com/specimen/Epunda+Slab
