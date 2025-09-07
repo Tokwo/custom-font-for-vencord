@@ -10,7 +10,7 @@ You can edit the file as you wish. As long as the font you want is on https://fo
 
 Here's an example with the following font: https://fonts.google.com/specimen/Epunda+Slab
 
-Change the import url text between "css2?" and ":ital," with the name of the font in the url. Like so: "Epunda+Slab".
+Change the import url text between "?family=" and ":ital," with the name of the font in the url. Like so: "Epunda+Slab".
 
 Next change the other font names on lines 10 and 11 (after it says "--font-prinmary:") to the same name with a space instead of "+"; ex: "Epunda Slab". Only do this for the first font on each line. I haven't tested, but it may break your discord if you delete the others.
 
