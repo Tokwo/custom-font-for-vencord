@@ -1,6 +1,6 @@
 /**
 * @name Custom Font
-* @author github.com/Tokwo
+* @author https://github.com/Tokwo/custom-font-for-vencord
 * @description Uses a custom font
 */
 
@@ -10,3 +10,4 @@
     --font-primary: 'JetBrains Mono', 'Helvetica Neue', Helvetica, Arial, sans-serif !important;
     --font-display: 'JetBrains Mono', 'Helvetica Neue', Helvetica, Arial, sans-serif !important;
 }
+
